@@ -1,4 +1,15 @@
-## Skills
+### 
+안정적인 서비스를 위해 결함을 줄이는 것에 관심이 많습니다.
+
+<br>
+
+### Projects
+- 익스텐션 기반 깔끔한 북마크 관리 서비스 - [Baguni](https://github.com/Kernel360/F2-BAGUNI) (2024.09~)
+- 동시성 경험을 위한 식당 예약 서비스 - [Catch Line](https://github.com/Kernel360/E2E2-CATCHLINE) (2024.07~2024.08)
+
+<br>
+
+### Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <p><strong>Backend</strong></p>
     <div>
@@ -30,3 +41,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+### Educations
+- Kangwon National University, Computer Science & Engineering ( 2020.03 ~ 2022.02 )
+- 
