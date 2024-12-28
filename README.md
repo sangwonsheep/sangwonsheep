@@ -1,4 +1,4 @@
-### Hello, I'm Sangwon
+### Hello, I'm Sangwon Yang
 안정적인 서비스를 위해 결함을 줄이는 것에 관심이 많습니다.
 
 <br>
