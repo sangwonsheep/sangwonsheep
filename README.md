@@ -5,6 +5,7 @@
 
 ### :computer: Projects
 - 익스텐션 기반 깔끔한 북마크 관리 서비스 - [바구니](https://github.com/Kernel360/F2-BAGUNI) ( 2024.09 ~ )
+- 동시성 경험을 위한 식당 원격 예약 서비스 - [캐치라인](https://github.com/Kernel360/E2E2-CATCHLINE) ( 2024.07 ~ 2024.08 )
 
 <br>
 
